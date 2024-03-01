@@ -9,7 +9,7 @@ export default function Home() {
       <div><Button label="Submit" /></div>
       <div><Button label="Submit" /></div>
       <div><Button label="Submit" /></div>
-      <div><Button label="Submit sdfsdf" /></div>
+      <div><Button label="Submit" /></div>
     </div>
   );
 }
