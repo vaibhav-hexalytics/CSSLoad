@@ -1,4 +1,6 @@
 import { Button } from 'primereact/button';
+import 'primereact/resources/themes/saga-blue/theme.css';
+import 'primereact/resources/primereact.min.css';
 
 export default function Home() {
   return (
